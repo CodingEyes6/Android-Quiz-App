@@ -2,4 +2,8 @@
     <string name="app_name">Knwoledge Checker</string>
     <string name="CurrentQuestion">Question No 1</string>
     <string name="questionSample">What is your Name?</string>
+    <string name="Answer1">Usama</string>
+    <string name="Answer2">Harry</string>
+    <string name="answer3">Linus Trovalds</string>
+    <string name="answer4">Bill Gates</string>
 </resources>
